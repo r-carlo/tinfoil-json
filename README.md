@@ -8,16 +8,14 @@ Just Add this Ulimate server in tinfoil. It will auto run all the alternative sh
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
-Titles: carcaschoi
+Path: r-carlo/tinfoil-json/master/tinfoilshop.json
+Titles: r-carlo
 ```
-Video: https://youtu.be/Q3yk6vzCA1E
 
 ## Credits
 * turtle in the shop
 * stealth shop
 * neko shop
-* ReDUMP Shop
 * pengu shop
 
 Thx for your awesome works😄
@@ -58,26 +56,4 @@ Title: Pengu shop
 Protocol: https
 Host: titz.cf
 Title: tits
-```
----Backup---
-```
-# 雷禪商店 Rayzen Shop (cannot use)
-Protocol: https
-Host: tiny.cc
-Path: Rayzen-vip
-Title: Rayzen Shop
-```
-```
-# UnderPrivileged Shop (cannot use)
-Protocol: https
-Host: rebrand.ly
-Path: UPStash
-Title: UnderPrivileged Shop
-```
-```
-# Turtle Shop (tits) 2 (useless)
-Protocol: https
-Host: tiny.cc
-Path: turtleshop
-Title: tits2
 ```
