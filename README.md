@@ -14,7 +14,7 @@ Titles: r-carlo
 OR
 
 Protocol: https
-Host: https://git.io/JXQM1
+Host: git.io/JXQM1
 Titles: r-carlo
 ```
 
