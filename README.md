@@ -10,6 +10,12 @@ Protocol: https
 Host: raw.githubusercontent.com
 Path: r-carlo/tinfoil-json/master/tinfoilshop.json
 Titles: r-carlo
+
+OR
+
+Protocol: https
+Host: https://git.io/JXQM1
+Titles: r-carlo
 ```
 
 ## Credits
